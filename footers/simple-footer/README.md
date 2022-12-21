@@ -1,0 +1,1 @@
+CodeBerry példa - simple footer
